@@ -48,7 +48,7 @@ client.gifs.search(
 );
 ```
 
-#### Get GIF by ID Endpoint.
+#### Get GIF by ID.
 ```JS
 client.gifs.get('feqkVgjJpYtjy', function(err, data) {
   if (!err) {

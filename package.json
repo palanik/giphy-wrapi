@@ -1,0 +1,41 @@
+{
+  "name": "giphy-wrapi",
+  "version": "0.1.0",
+  "description": "Wrapper for Giphy Web API",
+  "homepage": "https://github.com/wrapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palanik/giphy-wrapi.git"
+  },
+  "keywords": [
+    "giphy",
+    "wrapi",
+    "REST",
+    "API",
+    "api wrapper",
+    "giphy-api",
+    "giphy-web-api",
+    "giphy wrapper"
+  ],
+  "author": "palanik",
+  "contributors": [
+    "N. Palani Kumanan"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "bugs": {
+    "url": "https://github.com/palanik/giphy-wrapi/issues"
+  },
+  "dependencies": {
+    "wrapi": "^0.1.6"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
