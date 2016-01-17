@@ -1,0 +1,42 @@
+{
+	"gifs.search": {
+		"method": "GET",
+		"path": "gifs/search"
+	},
+	"gifs.get": {
+		"method": "GET",
+		"path": "gifs/:id"
+	},
+	"gifs.list": {
+		"method": "GET",
+		"path": "gifs"
+	},
+	"gifs.translate": {
+		"method": "GET",
+		"path": "gifs/translate"
+	},
+	"gifs.random": {
+		"method": "GET",
+		"path": "gifs/random"
+	},
+	"gifs.trending": {
+		"method": "GET",
+		"path": "gifs/trending"
+	},
+	"stickers.search": {
+		"method": "GET",
+		"path": "stickers/search"
+	},
+	"stickers.random": {
+		"method": "GET",
+		"path": "stickers/random"
+	},
+	"stickers.trending": {
+		"method": "GET",
+		"path": "stickers/trending"
+	},
+	"stickers.translate": {
+		"method": "GET",
+		"path": "stickers/translate"
+	}
+}
